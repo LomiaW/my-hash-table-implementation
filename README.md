@@ -3,11 +3,11 @@
 ## What is a Hash Table?
 
 A table is an unordered collection of records.
-A hash table is a data structure that maps keys of records to the locations in it.
+A hash table is a data structure that maps the keys of records to the locations in it.
 
 ## Load Factor
 
-\[\lambda = \frac{Number of Records}{Number of Locations}\]
+$\lambda = \frac{\text{Number of Records}}{\text{Number of Locations}}\$
 
 ## Hash Function
 
